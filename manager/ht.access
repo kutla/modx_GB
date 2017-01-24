@@ -1,0 +1,2 @@
+RewriteEngine Off
+php_value suhosin.get.max_value_length 4096
